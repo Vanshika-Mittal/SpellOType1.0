@@ -8,6 +8,6 @@ Scratch code for SpellOType 1.0
 
 * Kudos to Vanshika for rolling so many skills into one program. Waiting for more exciting programs to take form with this creative and caring mind at work. For any support please connect with **spellotype@gmail.com**
 
-The tuorial video can be found at [SpellOType Tutorial!](https://youtu.be/6sNmgLWMUcA)
+The tuorial video can be found at [SpellOType Tutorial](https://youtu.be/6sNmgLWMUcA)
 
-The program can be accessed at [SpelloType Scratch!](https://scratch.mit.edu/projects/387803162/fullscreen/)
+The program can be accessed at [SpelloType Scratch](https://scratch.mit.edu/projects/387803162/fullscreen/)
